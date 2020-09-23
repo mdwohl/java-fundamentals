@@ -34,4 +34,5 @@ public class Restaurant {
         }
         stars = total / reviewList.size();
     }
+
 }
